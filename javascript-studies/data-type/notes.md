@@ -78,3 +78,24 @@ console.log(year + month); // -> 20253
 ```
 
 #### Aspas duplas, simples e template string
+```js
+'JavaScript é "super" fácil'; ✅
+"JavaScript é 'super' fácil"; ✅
+"JavaScript é \"super\" fácil"; ✅
+`JavaScript é "super" fácil"`; ✅ 
+"JavaScript é "super" fácil"; ⛔
+```
+
+> Não precisamos, necessariamente, atribuir valores a uma variável
+
+#### Templaste strings
+
+```js
+var points = 1000;
+var phrase1 = 'Carlos did ' + points + ' points in that game';
+var phrase2 = `Carlos did ${points} points in that game`; // -> Utilizando template strings
+```
+
+Nesse caso, passamos expressões ou variáveis dentro de `${}`
+
+[🔗 Exercício](data-type.js)

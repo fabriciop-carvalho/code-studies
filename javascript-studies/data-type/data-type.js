@@ -13,7 +13,7 @@ var age = 24;
 // e outra com seu sobrenome e some as mesmas
 var firstName = "Fabrício "; 
 var lastName = "Carvalho";
-var completeName = `${firstName}    ${lastName}`;
+var completeName = `${firstName} ${lastName}`;
 
 // Coloque a seguinte frase em uma variável: It's time
 var phrase = "It's time";
