@@ -94,4 +94,3 @@ hasUniversity = false;
 
 console.log(hasUniversity); // error
 ```
-
