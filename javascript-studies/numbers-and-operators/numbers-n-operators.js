@@ -11,7 +11,7 @@ console.log(total); // -> 35
 var unit = 10 + 12 * "String";
 console.log(unit);
 
-var unit2 = "prhase" / 2;
+var unit2 = "phrase" / 2;
 console.log(unit2);
 
 // Somar a string '200' com o número 50 e retornar 250
@@ -19,9 +19,9 @@ var soma = +'200' + 50;
 console.log(soma);
 
 // Incremente o número 5 e retorne o seu valor incrementado
-var number5 = 5;
-number5++;
-console.log(number5);
+var x = 5;
+x++;
+console.log(x);
 
 // Como dividir o peso por 2?
 /* 
